@@ -11,14 +11,14 @@ Tech Stack
 - CustomTkinter
 - PyInstaller
 
-Run Project
+Run Project 
 "bash
 pip install tkinter
 pip install customtkinter
 python main.py
 "
 
-Build EXE
+Build EXE 
 "bash
 pyinstaller --onefile --windowed --icon=icon.ico main.py
 "
